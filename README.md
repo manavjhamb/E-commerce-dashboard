@@ -17,4 +17,4 @@ The dashboard provides insights into key eCommerce performance metrics, includin
 
 ## 📁 File
 
-- `ecommerce_dashboard.pbix` – The Power BI dashboard file
+- `Ecommerce.pbix` – The Power BI dashboard file
